@@ -188,7 +188,7 @@ section.container {
 	position: relative;
 	width: 600px;
 	height: 300px;
-	margin: 400px auto 0;
+	margin: 350px auto 0;
 	perspective: 1000px;
 	-webkit-perspective: 1000px;
 	-moz-perspective: 1000px;
