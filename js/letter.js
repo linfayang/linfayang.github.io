@@ -15,10 +15,10 @@ $("#open").click(function () {
 		new Typed('.letter', {
 			strings: [
 				"^1000Dear&nbsp;&nbsp;" + content.to,
-				content.recipient + "^200<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
+				content.recipient + "^200(๑′ᴗ‵๑)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
 				content.text + "<br><br><p style='float:right; display:block; width:" + 
 				content.sign + "px;'>^1000" +
-				content.from + "^200(๑′ᴗ‵๑)</p>"
+				content.from + "^200(≧∇≦)ﾉ</p>"
 			],
 			typeSpeed: 100,
 			backSpeed: 50
