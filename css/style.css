@@ -339,8 +339,8 @@ section.container:target > form.flip {
 section.container > form.flip > .front {
 	font-size: 1.25em;
 	background: beige url("../img/bg.png");
-	background: url("../img/stamp.png") no-repeat 450px 20px, url("../img/bg.png");
-	padding: 120px 20px 20px 40%;
+	background: url("../img/stamp.png") no-repeat 750px 20px, url("../img/bg.png");
+	padding: 120px 20px 20px 64%;
 	border: 1px #eae1d5 solid;
 }
 
